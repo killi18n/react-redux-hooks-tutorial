@@ -1,0 +1,5 @@
+.todoItem {
+  &.completed {
+    text-decoration: line-through;
+  }
+}
